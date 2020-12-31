@@ -2,6 +2,10 @@
 
 This is a simple Python webscrapper to create JSON files with the NBA's TOP 10 leaderboard from the last 25 seasons in total PTS, AST, 3PM, REB, STL, BLK and TOV.
 
+## Packages
+
+I used BeautifulSoup4, lxml, Pandas, Requests2 and Selenium.
+
 ## Dependencies
 
 I recommend you use pipenv
