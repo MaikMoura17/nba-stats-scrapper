@@ -1,0 +1,436 @@
+{
+    "points": [
+        {
+            "pos": 1,
+            "player": "Michael Jordan",
+            "team": "CHI",
+            "total": 2431
+        },
+        {
+            "pos": 2,
+            "player": "Karl Malone",
+            "team": "UTA",
+            "total": 2249
+        },
+        {
+            "pos": 3,
+            "player": "Glen Rice",
+            "team": "CHH",
+            "total": 2115
+        },
+        {
+            "pos": 4,
+            "player": "Mitch Richmond",
+            "team": "SAC",
+            "total": 2095
+        },
+        {
+            "pos": 5,
+            "player": "Latrell Sprewell",
+            "team": "GSW",
+            "total": 1938
+        },
+        {
+            "pos": 6,
+            "player": "Hakeem Olajuwon",
+            "team": "HOU",
+            "total": 1810
+        },
+        {
+            "pos": 7,
+            "player": "Kendall Gill",
+            "team": "NJN",
+            "total": 1789
+        },
+        {
+            "pos": 8,
+            "player": "Allen Iverson",
+            "team": "PHI",
+            "total": 1787
+        },
+        {
+            "pos": 9,
+            "player": "Gary Payton",
+            "team": "SEA",
+            "total": 1785
+        },
+        {
+            "pos": 10,
+            "player": "Patrick Ewing",
+            "team": "NYK",
+            "total": 1751
+        }
+    ],
+    "assists": [
+        {
+            "pos": 1,
+            "player": "Mark Jackson",
+            "team": "IND",
+            "total": 935
+        },
+        {
+            "pos": 2,
+            "player": "John Stockton",
+            "team": "UTA",
+            "total": 860
+        },
+        {
+            "pos": 3,
+            "player": "Rod Strickland",
+            "team": "WAS",
+            "total": 727
+        },
+        {
+            "pos": 4,
+            "player": "Damon Stoudamire",
+            "team": "TOR",
+            "total": 709
+        },
+        {
+            "pos": 5,
+            "player": "Tim Hardaway",
+            "team": "MIA",
+            "total": 695
+        },
+        {
+            "pos": 6,
+            "player": "Nick Van Exel",
+            "team": "LAL",
+            "total": 671
+        },
+        {
+            "pos": 7,
+            "player": "Kevin Johnson",
+            "team": "PHX",
+            "total": 653
+        },
+        {
+            "pos": 8,
+            "player": "Kenny Anderson",
+            "team": "POR",
+            "total": 584
+        },
+        {
+            "pos": 9,
+            "player": "Gary Payton",
+            "team": "SEA",
+            "total": 583
+        },
+        {
+            "pos": 9,
+            "player": "Grant Hill",
+            "team": "DET",
+            "total": 583
+        }
+    ],
+    "three_points": [
+        {
+            "pos": 1,
+            "player": "Reggie Miller",
+            "team": "IND",
+            "total": 229
+        },
+        {
+            "pos": 2,
+            "player": "Mookie Blaylock",
+            "team": "ATL",
+            "total": 221
+        },
+        {
+            "pos": 3,
+            "player": "Glen Rice",
+            "team": "CHH",
+            "total": 207
+        },
+        {
+            "pos": 4,
+            "player": "Mitch Richmond",
+            "team": "SAC",
+            "total": 204
+        },
+        {
+            "pos": 5,
+            "player": "Tim Hardaway",
+            "team": "MIA",
+            "total": 203
+        },
+        {
+            "pos": 6,
+            "player": "Dale Ellis",
+            "team": "DEN",
+            "total": 192
+        },
+        {
+            "pos": 7,
+            "player": "Voshon Lenard",
+            "team": "MIA",
+            "total": 183
+        },
+        {
+            "pos": 8,
+            "player": "Nick Van Exel",
+            "team": "LAL",
+            "total": 177
+        },
+        {
+            "pos": 9,
+            "player": "Damon Stoudamire",
+            "team": "TOR",
+            "total": 176
+        },
+        {
+            "pos": 10,
+            "player": "Terry Mills",
+            "team": "DET",
+            "total": 175
+        }
+    ],
+    "rebounds": [
+        {
+            "pos": 1,
+            "player": "Dikembe Mutombo",
+            "team": "ATL",
+            "total": 929
+        },
+        {
+            "pos": 2,
+            "player": "Ervin Johnson",
+            "team": "DEN",
+            "total": 913
+        },
+        {
+            "pos": 3,
+            "player": "Dennis Rodman",
+            "team": "CHI",
+            "total": 883
+        },
+        {
+            "pos": 4,
+            "player": "Patrick Ewing",
+            "team": "NYK",
+            "total": 834
+        },
+        {
+            "pos": 5,
+            "player": "Anthony Mason",
+            "team": "CHH",
+            "total": 829
+        },
+        {
+            "pos": 6,
+            "player": "Loy Vaught",
+            "team": "LAC",
+            "total": 817
+        },
+        {
+            "pos": 7,
+            "player": "Karl Malone",
+            "team": "UTA",
+            "total": 809
+        },
+        {
+            "pos": 8,
+            "player": "Shawn Kemp",
+            "team": "SEA",
+            "total": 807
+        },
+        {
+            "pos": 9,
+            "player": "Vin Baker",
+            "team": "MIL",
+            "total": 804
+        },
+        {
+            "pos": 10,
+            "player": "Charles Oakley",
+            "team": "NYK",
+            "total": 781
+        }
+    ],
+    "steals": [
+        {
+            "pos": 1,
+            "player": "Mookie Blaylock",
+            "team": "ATL",
+            "total": 212
+        },
+        {
+            "pos": 2,
+            "player": "Doug Christie",
+            "team": "TOR",
+            "total": 201
+        },
+        {
+            "pos": 3,
+            "player": "Gary Payton",
+            "team": "SEA",
+            "total": 197
+        },
+        {
+            "pos": 4,
+            "player": "Eddie Jones",
+            "team": "LAL",
+            "total": 189
+        },
+        {
+            "pos": 5,
+            "player": "Rick Fox",
+            "team": "BOS",
+            "total": 167
+        },
+        {
+            "pos": 6,
+            "player": "John Stockton",
+            "team": "UTA",
+            "total": 166
+        },
+        {
+            "pos": 7,
+            "player": "David Wesley",
+            "team": "BOS",
+            "total": 163
+        },
+        {
+            "pos": 8,
+            "player": "Kenny Anderson",
+            "team": "POR",
+            "total": 162
+        },
+        {
+            "pos": 9,
+            "player": "Hersey Hawkins",
+            "team": "SEA",
+            "total": 159
+        },
+        {
+            "pos": 10,
+            "player": "Kerry Kittles",
+            "team": "NJN",
+            "total": 158
+        }
+    ],
+    "blocks": [
+        {
+            "pos": 1,
+            "player": "Dikembe Mutombo",
+            "team": "ATL",
+            "total": 264
+        },
+        {
+            "pos": 2,
+            "player": "Shawn Bradley",
+            "team": "DAL",
+            "total": 248
+        },
+        {
+            "pos": 3,
+            "player": "Ervin Johnson",
+            "team": "DEN",
+            "total": 227
+        },
+        {
+            "pos": 4,
+            "player": "Alonzo Mourning",
+            "team": "MIA",
+            "total": 189
+        },
+        {
+            "pos": 4,
+            "player": "Patrick Ewing",
+            "team": "NYK",
+            "total": 189
+        },
+        {
+            "pos": 6,
+            "player": "Vlade Divac",
+            "team": "CHH",
+            "total": 180
+        },
+        {
+            "pos": 7,
+            "player": "Hakeem Olajuwon",
+            "team": "HOU",
+            "total": 173
+        },
+        {
+            "pos": 8,
+            "player": "Jim McIlvaine",
+            "team": "SEA",
+            "total": 164
+        },
+        {
+            "pos": 9,
+            "player": "Kevin Garnett",
+            "team": "MIN",
+            "total": 163
+        },
+        {
+            "pos": 9,
+            "player": "Roy Rogers",
+            "team": "VAN",
+            "total": 163
+        }
+    ],
+    "turnovers": [
+        {
+            "pos": 1,
+            "player": "Allen Iverson",
+            "team": "PHI",
+            "total": 337
+        },
+        {
+            "pos": 2,
+            "player": "Latrell Sprewell",
+            "team": "GSW",
+            "total": 322
+        },
+        {
+            "pos": 3,
+            "player": "Jerry Stackhouse",
+            "team": "PHI",
+            "total": 316
+        },
+        {
+            "pos": 4,
+            "player": "Tom Gugliotta",
+            "team": "MIN",
+            "total": 293
+        },
+        {
+            "pos": 5,
+            "player": "Damon Stoudamire",
+            "team": "TOR",
+            "total": 288
+        },
+        {
+            "pos": 6,
+            "player": "Hakeem Olajuwon",
+            "team": "HOU",
+            "total": 281
+        },
+        {
+            "pos": 7,
+            "player": "Shawn Kemp",
+            "team": "SEA",
+            "total": 280
+        },
+        {
+            "pos": 8,
+            "player": "Mark Jackson",
+            "team": "IND",
+            "total": 274
+        },
+        {
+            "pos": 9,
+            "player": "Rod Strickland",
+            "team": "WAS",
+            "total": 270
+        },
+        {
+            "pos": 10,
+            "player": "Glenn Robinson",
+            "team": "MIL",
+            "total": 269
+        }
+    ]
+}

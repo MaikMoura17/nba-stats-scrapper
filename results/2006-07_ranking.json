@@ -1,0 +1,436 @@
+{
+    "points": [
+        {
+            "pos": 1,
+            "player": "Kobe Bryant",
+            "team": "LAL",
+            "total": 2430
+        },
+        {
+            "pos": 2,
+            "player": "LeBron James",
+            "team": "CLE",
+            "total": 2132
+        },
+        {
+            "pos": 3,
+            "player": "Gilbert Arenas",
+            "team": "WAS",
+            "total": 2105
+        },
+        {
+            "pos": 4,
+            "player": "Vince Carter",
+            "team": "NJN",
+            "total": 2070
+        },
+        {
+            "pos": 5,
+            "player": "Dirk Nowitzki",
+            "team": "DAL",
+            "total": 1916
+        },
+        {
+            "pos": 6,
+            "player": "Carmelo Anthony",
+            "team": "DEN",
+            "total": 1881
+        },
+        {
+            "pos": 7,
+            "player": "Ben Gordon",
+            "team": "CHI",
+            "total": 1753
+        },
+        {
+            "pos": 8,
+            "player": "Tracy McGrady",
+            "team": "HOU",
+            "total": 1747
+        },
+        {
+            "pos": 9,
+            "player": "Allen Iverson",
+            "team": "DEN",
+            "total": 1709
+        },
+        {
+            "pos": 10,
+            "player": "Kevin Garnett",
+            "team": "MIN",
+            "total": 1704
+        }
+    ],
+    "assists": [
+        {
+            "pos": 1,
+            "player": "Steve Nash",
+            "team": "PHX",
+            "total": 884
+        },
+        {
+            "pos": 2,
+            "player": "Deron Williams",
+            "team": "UTA",
+            "total": 745
+        },
+        {
+            "pos": 3,
+            "player": "Jason Kidd",
+            "team": "NJN",
+            "total": 736
+        },
+        {
+            "pos": 4,
+            "player": "Andre Miller",
+            "team": "PHI",
+            "total": 625
+        },
+        {
+            "pos": 5,
+            "player": "T.J. Ford",
+            "team": "TOR",
+            "total": 595
+        },
+        {
+            "pos": 6,
+            "player": "Chris Paul",
+            "team": "NOK",
+            "total": 569
+        },
+        {
+            "pos": 7,
+            "player": "Raymond Felton",
+            "team": "CHA",
+            "total": 545
+        },
+        {
+            "pos": 8,
+            "player": "Baron Davis",
+            "team": "GSW",
+            "total": 509
+        },
+        {
+            "pos": 9,
+            "player": "Chauncey Billups",
+            "team": "DET",
+            "total": 502
+        },
+        {
+            "pos": 10,
+            "player": "Kirk Hinrich",
+            "team": "CHI",
+            "total": 500
+        }
+    ],
+    "three_points": [
+        {
+            "pos": 1,
+            "player": "Gilbert Arenas",
+            "team": "WAS",
+            "total": 205
+        },
+        {
+            "pos": 1,
+            "player": "Raja Bell",
+            "team": "PHX",
+            "total": 205
+        },
+        {
+            "pos": 3,
+            "player": "Mike Miller",
+            "team": "MEM",
+            "total": 202
+        },
+        {
+            "pos": 4,
+            "player": "Rafer Alston",
+            "team": "HOU",
+            "total": 192
+        },
+        {
+            "pos": 5,
+            "player": "Leandro Barbosa",
+            "team": "PHX",
+            "total": 190
+        },
+        {
+            "pos": 6,
+            "player": "Luther Head",
+            "team": "HOU",
+            "total": 177
+        },
+        {
+            "pos": 7,
+            "player": "Mike Bibby",
+            "team": "SAC",
+            "total": 173
+        },
+        {
+            "pos": 8,
+            "player": "Ray Allen",
+            "team": "SEA",
+            "total": 165
+        },
+        {
+            "pos": 9,
+            "player": "Jason Terry",
+            "team": "DAL",
+            "total": 162
+        },
+        {
+            "pos": 10,
+            "player": "Shane Battier",
+            "team": "HOU",
+            "total": 157
+        }
+    ],
+    "rebounds": [
+        {
+            "pos": 1,
+            "player": "Dwight Howard",
+            "team": "ORL",
+            "total": 1008
+        },
+        {
+            "pos": 2,
+            "player": "Kevin Garnett",
+            "team": "MIN",
+            "total": 975
+        },
+        {
+            "pos": 3,
+            "player": "Tyson Chandler",
+            "team": "NOK",
+            "total": 904
+        },
+        {
+            "pos": 4,
+            "player": "Carlos Boozer",
+            "team": "UTA",
+            "total": 867
+        },
+        {
+            "pos": 5,
+            "player": "Tim Duncan",
+            "team": "SAS",
+            "total": 846
+        },
+        {
+            "pos": 6,
+            "player": "Ben Wallace",
+            "team": "CHI",
+            "total": 821
+        },
+        {
+            "pos": 7,
+            "player": "Marcus Camby",
+            "team": "DEN",
+            "total": 816
+        },
+        {
+            "pos": 8,
+            "player": "Amar'e Stoudemire",
+            "team": "PHX",
+            "total": 786
+        },
+        {
+            "pos": 9,
+            "player": "Shawn Marion",
+            "team": "PHX",
+            "total": 785
+        },
+        {
+            "pos": 10,
+            "player": "Andris Biedrins",
+            "team": "GSW",
+            "total": 762
+        }
+    ],
+    "steals": [
+        {
+            "pos": 1,
+            "player": "Shawn Marion",
+            "team": "PHX",
+            "total": 156
+        },
+        {
+            "pos": 2,
+            "player": "Andre Iguodala",
+            "team": "PHI",
+            "total": 152
+        },
+        {
+            "pos": 3,
+            "player": "Metta World Peace",
+            "team": "SAC",
+            "total": 149
+        },
+        {
+            "pos": 4,
+            "player": "Gerald Wallace",
+            "team": "CHA",
+            "total": 144
+        },
+        {
+            "pos": 5,
+            "player": "Gilbert Arenas",
+            "team": "WAS",
+            "total": 139
+        },
+        {
+            "pos": 6,
+            "player": "Baron Davis",
+            "team": "GSW",
+            "total": 135
+        },
+        {
+            "pos": 7,
+            "player": "Caron Butler",
+            "team": "WAS",
+            "total": 134
+        },
+        {
+            "pos": 8,
+            "player": "Monta Ellis",
+            "team": "GSW",
+            "total": 132
+        },
+        {
+            "pos": 9,
+            "player": "Rafer Alston",
+            "team": "HOU",
+            "total": 129
+        },
+        {
+            "pos": 10,
+            "player": "Rajon Rondo",
+            "team": "BOS",
+            "total": 128
+        }
+    ],
+    "blocks": [
+        {
+            "pos": 1,
+            "player": "Marcus Camby",
+            "team": "DEN",
+            "total": 231
+        },
+        {
+            "pos": 2,
+            "player": "Josh Smith",
+            "team": "ATL",
+            "total": 207
+        },
+        {
+            "pos": 3,
+            "player": "Tim Duncan",
+            "team": "SAS",
+            "total": 190
+        },
+        {
+            "pos": 4,
+            "player": "Jermaine O'Neal",
+            "team": "IND",
+            "total": 182
+        },
+        {
+            "pos": 5,
+            "player": "Elton Brand",
+            "team": "LAC",
+            "total": 179
+        },
+        {
+            "pos": 6,
+            "player": "Alonzo Mourning",
+            "team": "MIA",
+            "total": 178
+        },
+        {
+            "pos": 7,
+            "player": "Emeka Okafor",
+            "team": "CHA",
+            "total": 172
+        },
+        {
+            "pos": 8,
+            "player": "Samuel Dalembert",
+            "team": "PHI",
+            "total": 159
+        },
+        {
+            "pos": 9,
+            "player": "Ben Wallace",
+            "team": "CHI",
+            "total": 156
+        },
+        {
+            "pos": 9,
+            "player": "Dwight Howard",
+            "team": "ORL",
+            "total": 156
+        }
+    ],
+    "turnovers": [
+        {
+            "pos": 1,
+            "player": "Dwight Howard",
+            "team": "ORL",
+            "total": 317
+        },
+        {
+            "pos": 2,
+            "player": "Eddy Curry",
+            "team": "NYK",
+            "total": 295
+        },
+        {
+            "pos": 3,
+            "player": "Steve Nash",
+            "team": "PHX",
+            "total": 287
+        },
+        {
+            "pos": 4,
+            "player": "Allen Iverson",
+            "team": "DEN",
+            "total": 268
+        },
+        {
+            "pos": 5,
+            "player": "Andre Iguodala",
+            "team": "PHI",
+            "total": 261
+        },
+        {
+            "pos": 6,
+            "player": "Kobe Bryant",
+            "team": "LAL",
+            "total": 255
+        },
+        {
+            "pos": 7,
+            "player": "LeBron James",
+            "team": "CLE",
+            "total": 250
+        },
+        {
+            "pos": 8,
+            "player": "Ben Gordon",
+            "team": "CHI",
+            "total": 249
+        },
+        {
+            "pos": 9,
+            "player": "Deron Williams",
+            "team": "UTA",
+            "total": 246
+        },
+        {
+            "pos": 10,
+            "player": "Gilbert Arenas",
+            "team": "WAS",
+            "total": 236
+        }
+    ]
+}

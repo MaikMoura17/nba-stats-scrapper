@@ -1,0 +1,436 @@
+{
+    "points": [
+        {
+            "pos": 1,
+            "player": "LeBron James",
+            "team": "CLE",
+            "total": 2251
+        },
+        {
+            "pos": 2,
+            "player": "James Harden",
+            "team": "HOU",
+            "total": 2191
+        },
+        {
+            "pos": 3,
+            "player": "Anthony Davis",
+            "team": "NOP",
+            "total": 2110
+        },
+        {
+            "pos": 4,
+            "player": "Russell Westbrook",
+            "team": "OKC",
+            "total": 2028
+        },
+        {
+            "pos": 5,
+            "player": "Giannis Antetokounmpo",
+            "team": "MIL",
+            "total": 2014
+        },
+        {
+            "pos": 6,
+            "player": "Damian Lillard",
+            "team": "POR",
+            "total": 1962
+        },
+        {
+            "pos": 7,
+            "player": "Bradley Beal",
+            "team": "WAS",
+            "total": 1857
+        },
+        {
+            "pos": 8,
+            "player": "DeMar DeRozan",
+            "team": "TOR",
+            "total": 1840
+        },
+        {
+            "pos": 9,
+            "player": "Kevin Durant",
+            "team": "GSW",
+            "total": 1792
+        },
+        {
+            "pos": 10,
+            "player": "Lou Williams",
+            "team": "LAC",
+            "total": 1782
+        }
+    ],
+    "assists": [
+        {
+            "pos": 1,
+            "player": "Russell Westbrook",
+            "team": "OKC",
+            "total": 820
+        },
+        {
+            "pos": 2,
+            "player": "LeBron James",
+            "team": "CLE",
+            "total": 747
+        },
+        {
+            "pos": 3,
+            "player": "Ben Simmons",
+            "team": "PHI",
+            "total": 661
+        },
+        {
+            "pos": 4,
+            "player": "James Harden",
+            "team": "HOU",
+            "total": 630
+        },
+        {
+            "pos": 5,
+            "player": "Kyle Lowry",
+            "team": "TOR",
+            "total": 537
+        },
+        {
+            "pos": 6,
+            "player": "Rajon Rondo",
+            "team": "NOP",
+            "total": 533
+        },
+        {
+            "pos": 7,
+            "player": "Spencer Dinwiddie",
+            "team": "BKN",
+            "total": 524
+        },
+        {
+            "pos": 8,
+            "player": "Draymond Green",
+            "team": "GSW",
+            "total": 508
+        },
+        {
+            "pos": 9,
+            "player": "Jeff Teague",
+            "team": "MIN",
+            "total": 492
+        },
+        {
+            "pos": 10,
+            "player": "Jrue Holiday",
+            "team": "NOP",
+            "total": 486
+        }
+    ],
+    "three_points": [
+        {
+            "pos": 1,
+            "player": "James Harden",
+            "team": "HOU",
+            "total": 265
+        },
+        {
+            "pos": 2,
+            "player": "Paul George",
+            "team": "OKC",
+            "total": 244
+        },
+        {
+            "pos": 3,
+            "player": "Kyle Lowry",
+            "team": "TOR",
+            "total": 238
+        },
+        {
+            "pos": 4,
+            "player": "Kemba Walker",
+            "team": "CHA",
+            "total": 231
+        },
+        {
+            "pos": 5,
+            "player": "Klay Thompson",
+            "team": "GSW",
+            "total": 229
+        },
+        {
+            "pos": 6,
+            "player": "Damian Lillard",
+            "team": "POR",
+            "total": 227
+        },
+        {
+            "pos": 6,
+            "player": "Wayne Ellington",
+            "team": "MIA",
+            "total": 227
+        },
+        {
+            "pos": 8,
+            "player": "Eric Gordon",
+            "team": "HOU",
+            "total": 218
+        },
+        {
+            "pos": 9,
+            "player": "Stephen Curry",
+            "team": "GSW",
+            "total": 212
+        },
+        {
+            "pos": 10,
+            "player": "Joe Ingles",
+            "team": "UTA",
+            "total": 204
+        }
+    ],
+    "rebounds": [
+        {
+            "pos": 1,
+            "player": "Andre Drummond",
+            "team": "DET",
+            "total": 1247
+        },
+        {
+            "pos": 2,
+            "player": "DeAndre Jordan",
+            "team": "LAC",
+            "total": 1171
+        },
+        {
+            "pos": 3,
+            "player": "Dwight Howard",
+            "team": "CHA",
+            "total": 1012
+        },
+        {
+            "pos": 3,
+            "player": "Karl-Anthony Towns",
+            "team": "MIN",
+            "total": 1012
+        },
+        {
+            "pos": 5,
+            "player": "Anthony Davis",
+            "team": "NOP",
+            "total": 831
+        },
+        {
+            "pos": 6,
+            "player": "Russell Westbrook",
+            "team": "OKC",
+            "total": 804
+        },
+        {
+            "pos": 7,
+            "player": "Nikola Jokic",
+            "team": "DEN",
+            "total": 803
+        },
+        {
+            "pos": 8,
+            "player": "Clint Capela",
+            "team": "HOU",
+            "total": 802
+        },
+        {
+            "pos": 9,
+            "player": "Enes Kanter",
+            "team": "NYK",
+            "total": 780
+        },
+        {
+            "pos": 10,
+            "player": "Giannis Antetokounmpo",
+            "team": "MIL",
+            "total": 753
+        }
+    ],
+    "steals": [
+        {
+            "pos": 1,
+            "player": "Victor Oladipo",
+            "team": "IND",
+            "total": 177
+        },
+        {
+            "pos": 2,
+            "player": "Paul George",
+            "team": "OKC",
+            "total": 161
+        },
+        {
+            "pos": 3,
+            "player": "Eric Bledsoe",
+            "team": "MIL",
+            "total": 149
+        },
+        {
+            "pos": 4,
+            "player": "Russell Westbrook",
+            "team": "OKC",
+            "total": 147
+        },
+        {
+            "pos": 5,
+            "player": "Ben Simmons",
+            "team": "PHI",
+            "total": 140
+        },
+        {
+            "pos": 6,
+            "player": "Robert Covington",
+            "team": "PHI",
+            "total": 137
+        },
+        {
+            "pos": 7,
+            "player": "Thaddeus Young",
+            "team": "IND",
+            "total": 135
+        },
+        {
+            "pos": 8,
+            "player": "James Harden",
+            "team": "HOU",
+            "total": 126
+        },
+        {
+            "pos": 9,
+            "player": "Jrue Holiday",
+            "team": "NOP",
+            "total": 123
+        },
+        {
+            "pos": 10,
+            "player": "Gary Harris",
+            "team": "DEN",
+            "total": 122
+        }
+    ],
+    "blocks": [
+        {
+            "pos": 1,
+            "player": "Anthony Davis",
+            "team": "NOP",
+            "total": 193
+        },
+        {
+            "pos": 2,
+            "player": "Clint Capela",
+            "team": "HOU",
+            "total": 137
+        },
+        {
+            "pos": 3,
+            "player": "Dwight Howard",
+            "team": "CHA",
+            "total": 131
+        },
+        {
+            "pos": 4,
+            "player": "Rudy Gobert",
+            "team": "UTA",
+            "total": 129
+        },
+        {
+            "pos": 5,
+            "player": "Andre Drummond",
+            "team": "DET",
+            "total": 127
+        },
+        {
+            "pos": 6,
+            "player": "Kevin Durant",
+            "team": "GSW",
+            "total": 119
+        },
+        {
+            "pos": 7,
+            "player": "Myles Turner",
+            "team": "IND",
+            "total": 118
+        },
+        {
+            "pos": 8,
+            "player": "Karl-Anthony Towns",
+            "team": "MIN",
+            "total": 115
+        },
+        {
+            "pos": 8,
+            "player": "Kristaps Porzingis",
+            "team": "NYK",
+            "total": 115
+        },
+        {
+            "pos": 10,
+            "player": "Joel Embiid",
+            "team": "PHI",
+            "total": 111
+        }
+    ],
+    "turnovers": [
+        {
+            "pos": 1,
+            "player": "Russell Westbrook",
+            "team": "OKC",
+            "total": 381
+        },
+        {
+            "pos": 2,
+            "player": "LeBron James",
+            "team": "CLE",
+            "total": 347
+        },
+        {
+            "pos": 3,
+            "player": "James Harden",
+            "team": "HOU",
+            "total": 315
+        },
+        {
+            "pos": 4,
+            "player": "Ben Simmons",
+            "team": "PHI",
+            "total": 278
+        },
+        {
+            "pos": 5,
+            "player": "DeMarcus Cousins",
+            "team": "NOP",
+            "total": 242
+        },
+        {
+            "pos": 6,
+            "player": "Joel Embiid",
+            "team": "PHI",
+            "total": 234
+        },
+        {
+            "pos": 6,
+            "player": "Lou Williams",
+            "team": "LAC",
+            "total": 234
+        },
+        {
+            "pos": 8,
+            "player": "Giannis Antetokounmpo",
+            "team": "MIL",
+            "total": 223
+        },
+        {
+            "pos": 9,
+            "player": "Victor Oladipo",
+            "team": "IND",
+            "total": 219
+        },
+        {
+            "pos": 10,
+            "player": "Eric Bledsoe",
+            "team": "MIL",
+            "total": 216
+        }
+    ]
+}

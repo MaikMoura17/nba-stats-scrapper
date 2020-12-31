@@ -1,0 +1,436 @@
+{
+    "points": [
+        {
+            "pos": 1,
+            "player": "Shaquille O'Neal",
+            "team": "LAL",
+            "total": 1289
+        },
+        {
+            "pos": 2,
+            "player": "Allen Iverson",
+            "team": "PHI",
+            "total": 1284
+        },
+        {
+            "pos": 3,
+            "player": "Karl Malone",
+            "team": "UTA",
+            "total": 1164
+        },
+        {
+            "pos": 4,
+            "player": "Shareef Abdur-Rahim",
+            "team": "VAN",
+            "total": 1152
+        },
+        {
+            "pos": 5,
+            "player": "Gary Payton",
+            "team": "SEA",
+            "total": 1084
+        },
+        {
+            "pos": 5,
+            "player": "Tim Duncan",
+            "team": "SAS",
+            "total": 1084
+        },
+        {
+            "pos": 7,
+            "player": "Antonio McDyess",
+            "team": "DEN",
+            "total": 1061
+        },
+        {
+            "pos": 8,
+            "player": "Grant Hill",
+            "team": "DET",
+            "total": 1053
+        },
+        {
+            "pos": 9,
+            "player": "Stephon Marbury",
+            "team": "NJN",
+            "total": 1044
+        },
+        {
+            "pos": 10,
+            "player": "Michael Finley",
+            "team": "DAL",
+            "total": 1009
+        }
+    ],
+    "assists": [
+        {
+            "pos": 1,
+            "player": "Jason Kidd",
+            "team": "PHX",
+            "total": 539
+        },
+        {
+            "pos": 2,
+            "player": "Stephon Marbury",
+            "team": "NJN",
+            "total": 437
+        },
+        {
+            "pos": 3,
+            "player": "Gary Payton",
+            "team": "SEA",
+            "total": 436
+        },
+        {
+            "pos": 4,
+            "player": "Rod Strickland",
+            "team": "WAS",
+            "total": 434
+        },
+        {
+            "pos": 5,
+            "player": "Mark Jackson",
+            "team": "IND",
+            "total": 386
+        },
+        {
+            "pos": 6,
+            "player": "John Stockton",
+            "team": "UTA",
+            "total": 374
+        },
+        {
+            "pos": 7,
+            "player": "Avery Johnson",
+            "team": "SAS",
+            "total": 369
+        },
+        {
+            "pos": 8,
+            "player": "Nick Van Exel",
+            "team": "DEN",
+            "total": 368
+        },
+        {
+            "pos": 9,
+            "player": "Tim Hardaway",
+            "team": "MIA",
+            "total": 352
+        },
+        {
+            "pos": 10,
+            "player": "Darrell Armstrong",
+            "team": "ORL",
+            "total": 335
+        }
+    ],
+    "three_points": [
+        {
+            "pos": 1,
+            "player": "Dee Brown",
+            "team": "TOR",
+            "total": 135
+        },
+        {
+            "pos": 2,
+            "player": "Tim Hardaway",
+            "team": "MIA",
+            "total": 112
+        },
+        {
+            "pos": 3,
+            "player": "Reggie Miller",
+            "team": "IND",
+            "total": 106
+        },
+        {
+            "pos": 4,
+            "player": "Jason Williams",
+            "team": "SAC",
+            "total": 100
+        },
+        {
+            "pos": 5,
+            "player": "Nick Anderson",
+            "team": "ORL",
+            "total": 96
+        },
+        {
+            "pos": 6,
+            "player": "Dale Ellis",
+            "team": "SEA",
+            "total": 94
+        },
+        {
+            "pos": 7,
+            "player": "Joe Dumars",
+            "team": "DET",
+            "total": 89
+        },
+        {
+            "pos": 8,
+            "player": "Sam Mack",
+            "team": "HOU",
+            "total": 87
+        },
+        {
+            "pos": 9,
+            "player": "Chauncey Billups",
+            "team": "DEN",
+            "total": 85
+        },
+        {
+            "pos": 10,
+            "player": "Paul Pierce",
+            "team": "BOS",
+            "total": 84
+        }
+    ],
+    "rebounds": [
+        {
+            "pos": 1,
+            "player": "Dikembe Mutombo",
+            "team": "ATL",
+            "total": 610
+        },
+        {
+            "pos": 2,
+            "player": "Danny Fortson",
+            "team": "DEN",
+            "total": 581
+        },
+        {
+            "pos": 3,
+            "player": "Tim Duncan",
+            "team": "SAS",
+            "total": 571
+        },
+        {
+            "pos": 4,
+            "player": "Chris Webber",
+            "team": "SAC",
+            "total": 545
+        },
+        {
+            "pos": 5,
+            "player": "Antonio McDyess",
+            "team": "DEN",
+            "total": 537
+        },
+        {
+            "pos": 6,
+            "player": "Shaquille O'Neal",
+            "team": "LAL",
+            "total": 525
+        },
+        {
+            "pos": 7,
+            "player": "Charles Barkley",
+            "team": "HOU",
+            "total": 516
+        },
+        {
+            "pos": 8,
+            "player": "Alonzo Mourning",
+            "team": "MIA",
+            "total": 507
+        },
+        {
+            "pos": 9,
+            "player": "Vlade Divac",
+            "team": "SAC",
+            "total": 501
+        },
+        {
+            "pos": 10,
+            "player": "David Robinson",
+            "team": "SAS",
+            "total": 492
+        }
+    ],
+    "steals": [
+        {
+            "pos": 1,
+            "player": "Kendall Gill",
+            "team": "NJN",
+            "total": 134
+        },
+        {
+            "pos": 2,
+            "player": "Eddie Jones",
+            "team": "CHH",
+            "total": 125
+        },
+        {
+            "pos": 3,
+            "player": "Jason Kidd",
+            "team": "PHX",
+            "total": 114
+        },
+        {
+            "pos": 4,
+            "player": "Doug Christie",
+            "team": "TOR",
+            "total": 113
+        },
+        {
+            "pos": 5,
+            "player": "Anfernee Hardaway",
+            "team": "ORL",
+            "total": 111
+        },
+        {
+            "pos": 6,
+            "player": "Allen Iverson",
+            "team": "PHI",
+            "total": 110
+        },
+        {
+            "pos": 7,
+            "player": "Gary Payton",
+            "team": "SEA",
+            "total": 109
+        },
+        {
+            "pos": 8,
+            "player": "Darrell Armstrong",
+            "team": "ORL",
+            "total": 108
+        },
+        {
+            "pos": 9,
+            "player": "Charlie Ward",
+            "team": "NYK",
+            "total": 103
+        },
+        {
+            "pos": 10,
+            "player": "David Wesley",
+            "team": "CHH",
+            "total": 100
+        }
+    ],
+    "blocks": [
+        {
+            "pos": 1,
+            "player": "Alonzo Mourning",
+            "team": "MIA",
+            "total": 180
+        },
+        {
+            "pos": 2,
+            "player": "Shawn Bradley",
+            "team": "DAL",
+            "total": 159
+        },
+        {
+            "pos": 3,
+            "player": "Theo Ratliff",
+            "team": "PHI",
+            "total": 149
+        },
+        {
+            "pos": 4,
+            "player": "Dikembe Mutombo",
+            "team": "ATL",
+            "total": 147
+        },
+        {
+            "pos": 5,
+            "player": "Greg Ostertag",
+            "team": "UTA",
+            "total": 131
+        },
+        {
+            "pos": 6,
+            "player": "Tim Duncan",
+            "team": "SAS",
+            "total": 126
+        },
+        {
+            "pos": 7,
+            "player": "Hakeem Olajuwon",
+            "team": "HOU",
+            "total": 123
+        },
+        {
+            "pos": 8,
+            "player": "David Robinson",
+            "team": "SAS",
+            "total": 119
+        },
+        {
+            "pos": 9,
+            "player": "Antonio McDyess",
+            "team": "DEN",
+            "total": 115
+        },
+        {
+            "pos": 10,
+            "player": "Patrick Ewing",
+            "team": "NYK",
+            "total": 100
+        }
+    ],
+    "turnovers": [
+        {
+            "pos": 1,
+            "player": "Shareef Abdur-Rahim",
+            "team": "VAN",
+            "total": 186
+        },
+        {
+            "pos": 2,
+            "player": "Grant Hill",
+            "team": "DET",
+            "total": 184
+        },
+        {
+            "pos": 3,
+            "player": "Allen Iverson",
+            "team": "PHI",
+            "total": 167
+        },
+        {
+            "pos": 4,
+            "player": "Stephon Marbury",
+            "team": "NJN",
+            "total": 164
+        },
+        {
+            "pos": 5,
+            "player": "Karl Malone",
+            "team": "UTA",
+            "total": 162
+        },
+        {
+            "pos": 6,
+            "player": "Scottie Pippen",
+            "team": "HOU",
+            "total": 159
+        },
+        {
+            "pos": 7,
+            "player": "Darrell Armstrong",
+            "team": "ORL",
+            "total": 158
+        },
+        {
+            "pos": 8,
+            "player": "Kobe Bryant",
+            "team": "LAL",
+            "total": 157
+        },
+        {
+            "pos": 9,
+            "player": "Gary Payton",
+            "team": "SEA",
+            "total": 154
+        },
+        {
+            "pos": 10,
+            "player": "Anfernee Hardaway",
+            "team": "ORL",
+            "total": 150
+        }
+    ]
+}
